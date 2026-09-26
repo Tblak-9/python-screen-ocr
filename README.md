@@ -73,7 +73,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/python-screen-ocr.git
+git clone https://github.com/Tblak-9/python-screen-ocr.git
 ```
 
 ```bash
