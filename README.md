@@ -59,6 +59,13 @@
 | 📋 Pyperclip | Clipboard management |
 
 ---
+## 🎬 Demo
+
+<p align="center">
+  <img src="gif/demo.gif" alt="Python Screen OCR Demo" width="800">
+</p>
+
+A quick demonstration of the screen selection, OCR extraction, and automatic clipboard functionality.
 
 ## 📋 Requirements
 
