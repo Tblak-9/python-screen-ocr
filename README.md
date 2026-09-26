@@ -2,6 +2,12 @@
 
 > A lightweight Python tool for selecting any area of your screen, extracting text using OCR, and automatically copying the result to your clipboard.
 
+## 🎬 Demo
+
+<p align="center">
+  <img src="gif/demo.gif" alt="Python Screen OCR Demo" width="800">
+</p>
+
 ---
 
 ## ✨ Features
@@ -59,11 +65,6 @@
 | 📋 Pyperclip | Clipboard management |
 
 ---
-## 🎬 Demo
-
-<p align="center">
-  <img src="gif/demo.gif" alt="Python Screen OCR Demo" width="800">
-</p>
 
 A quick demonstration of the screen selection, OCR extraction, and automatic clipboard functionality.
 
